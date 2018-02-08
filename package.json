@@ -1,0 +1,22 @@
+{
+  "name": "express_html",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johnnyguan/express_html.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/johnnyguan/express_html/issues"
+  },
+  "homepage": "https://github.com/johnnyguan/express_html#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
